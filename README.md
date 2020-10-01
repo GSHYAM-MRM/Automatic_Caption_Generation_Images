@@ -9,7 +9,7 @@ It also contains a **Detailed Report** Named, **"Savvy_Captioners_Final_Report"*
 
 The **Encoder-Decoder Architecture** used in the project:
 
-![ImageCap](ImageCap.PNG)
+![ImageCap](Images/ImageCap.PNG)
 
 As a Team, We have also explained the project's concept and the code in brief by creating **Video and Hosted it on YouTube**. Watch It!
 
@@ -18,9 +18,9 @@ As a Team, We have also explained the project's concept and the code in brief by
 Some of the Interesting Results we obtained were -
 
 
-![Cricket](Cricket.PNG)
+![Cricket](Images/Cricket.PNG)
 
-![Sharan](Sharan.PNG)
+![Sharan](Images/Sharan.PNG)
 
 
 Thank you! 
